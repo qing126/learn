@@ -5,5 +5,6 @@ public class git1 {
         System.out.println("asd");
         System.out.println("aaasd");
         System.out.println("a154sd");
+        System.out.println("a154sd");
     }
 }
